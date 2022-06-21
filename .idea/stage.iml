@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/mikey179/vfsstream" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/bootstrap-5.0.2/.github" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/bootstrap-5.0.2/build" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/bootstrap-5.0.2/dist" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/bootstrap-5.0.2/js" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/bootstrap-5.0.2/nuget" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/bootstrap-5.0.2/scss" />
+      <excludeFolder url="file://$MODULE_DIR$/to_do_list/vendor/bootstrap-5.0.2/site" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
